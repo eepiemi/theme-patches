@@ -58,10 +58,21 @@
    Continuing the legacy of Vanced
 </p>
 
-# 💖🧩 Emi's theme patches
+<h1 align="center">
+  🧩 Emi's theme patches 💖
+</h1>
 
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/ReVanced/revanced-patches-template/release.yml)
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
-This is a repository where I publish my theme patches for various apps 🥰  
-Also hosts a tweak of the current Spotify theme patch which patches things the main devs didn't want patched.
+<p align="center">
+  This is a repository where I publish my theme patches for various apps 😇 
+</p>
+
+<p align="center">
+  To add to repo:
+</p>
+
+- a tweak of the current Spotify theme patch which patches things the main devs didn't want patched / greens they haven't patched
+- a theme patch for SuperAlarm
+
